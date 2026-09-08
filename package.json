@@ -1,0 +1,15 @@
+{
+  "name": "mausam-mitra-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build",
+    "start": "vite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "tailwindcss": "^3.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  }
+}
